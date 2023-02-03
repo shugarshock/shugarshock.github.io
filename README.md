@@ -18,7 +18,7 @@
 				<ul>
 					<li>Home page</li>
 					<li><a href="project-page/project.html">Projects page</a></li>
-					<li><a href="shugarshock/shugarshock/github.io/social-page/social.html">Social page</a></li>
+					<li><a href="shugarshock/shugarshock.github.io/social-page/social.html">Social page</a></li>
 				</ul>
 			</nav>
 			<main>
