@@ -5,7 +5,7 @@
   list-style-type: none;
 }
 .twitter{
-  background: url("shugarshock.github.io/images/twitter-icon.png'") no-repeat left top;
+  list-style-image: url("shugarshock.github.io/images/twitter-icon.png'") no-repeat left top;
   height: 34px;
   padding-top: 7px;
   padding-left: 44px;
