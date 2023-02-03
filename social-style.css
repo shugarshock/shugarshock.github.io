@@ -1,6 +1,7 @@
 <!DOCTYPE CSS>
-ul li.twitter {
-  list-style-type: none;
+@counter-style symbols-example {
+  system: fixed;
+  symbols: url(twitter-icon.png) none;
 }
 li.twitter {
   background-image: url(shugarshock/shugarshock.github.io/images/twitter-icon.png);
