@@ -6,7 +6,7 @@ html
 }
 li .twitter {
         padding-left: 2rem;
-        background-image: url(twitter-icon.png);
+        background-image: url("shugarshock/shugarshock.github.io/images/twitter-icon.png");
         background-position: 0 0;
         background-size: 1.6rem 1.6rem;
         background-repeat: no-repeat;
