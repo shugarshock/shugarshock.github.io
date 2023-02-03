@@ -1,12 +1,12 @@
 <!DOCTYPE CSS>
-@counter-style symbols-example {
-  system: fixed;
-  symbols: url"images/twitter-icon.png" none;
+.list{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
 }
-li.twitter {
-  background-image: url(shugarshock/shugarshock.github.io/images/twitter-icon.png);
-  background-position: 0 0;
-  background-size: 1.6rem 1.6rem;
-  background-repeat: no-repeat;
+.twitter{
+  background: url('images/twitter-icon.png') no-repeat left top;
+  height: 34px;
+  padding-top: 7px;
+  padding-left: 44px;
 }
-  
