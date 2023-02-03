@@ -1,0 +1,17 @@
+html {
+	background-color: #F6F0ED;
+}
+h1 {
+  text-align: center;
+}	
+.yolkai {
+	text-align: center;
+}
+.yolkai img {
+	width: 25%;
+	height: 25%;
+}
+.special {
+	color: orange;
+	font-weight: bold;
+}
